@@ -1,6 +1,6 @@
 public class WasteManagementSystem {
     public static void main(String[] args) {
-        // Create waste containers
+
         WasteContainer organicBin = new WasteContainer("organic", 10);
         WasteContainer recyclableBin = new WasteContainer("recyclable", 10);
         WasteContainer hazardousBin = new WasteContainer("hazardous", 10);
