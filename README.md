@@ -22,4 +22,4 @@ Problem Statement
 UML Diagram
 Solution Codes
 
-[WastemanageUML.pdf](https://github.com/user-attachments/files/19147413/WastemanageUML.pdf)
+![WasteUML](https://github.com/user-attachments/assets/b61da99f-43c3-46d1-9ea6-6fe22267c284)
